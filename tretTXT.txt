@@ -1,2 +1,5 @@
 Tret file za ovoj repozitorium
 File-ot se naogja na grankata Vtora_Granka
+Dopolnuvanje na file-ot
+So nekolku redovi tekst
+Nesto bez vrska
